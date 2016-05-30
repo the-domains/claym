@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Claym]]></title>
+        <description><![CDATA[Claym]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 30 May 2016 03:59:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Claym Board]]></title>
+            <description><![CDATA[<article><h1>Claym Board</h1><p>The current version of the Claym board; this iteration tweaks the coloring to explicitly call out the White and Black sides to avoid confusion (in theory the players could switch board positions entirely, though it's not particularly likely).</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/40bd78d6-87e0-43d3-8f4d-68c398d79806.png"></article>]]></description>
+            <link>undefinedclaym-board/index.html</link>
+            <guid isPermaLink="false">69e32111-7e6f-43f1-8c03-034f15a64636</guid>
+            <pubDate>Mon, 30 May 2016 03:59:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
