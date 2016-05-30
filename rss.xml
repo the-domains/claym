@@ -4,8 +4,15 @@
         <description><![CDATA[Claym]]></description>
         <link>https://thegrid.ai/claym/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 May 2016 03:59:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2016 04:00:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/claym/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Board Setup]]></title>
+            <description><![CDATA[<article><h1>Board Setup</h1><p>Of course, these board graphics are already obsolete...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/86298f75cf46e8e14c8bac21899d31dccdea710a.png"></article>]]></description>
+            <link>https://thegrid.ai/claym/board-setup/index.html</link>
+            <guid isPermaLink="false">622ea764-e51a-4116-8528-9a9ad4075a2f</guid>
+            <pubDate>Mon, 30 May 2016 04:00:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tabletop Simulator]]></title>
             <description><![CDATA[<article><h1>Tabletop Simulator</h1><p>I cannot say enough good things about Tabletop Simulator. It is not *perfect* but Claym wouldn't even have hit the prototyping phase without it.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d48c7df5-da38-4398-ad06-35808f340f46.png"></article>]]></description>
