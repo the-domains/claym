@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Claym]]></title>
         <description><![CDATA[Claym]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/claym/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 May 2016 03:59:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 30 May 2016 03:59:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/claym/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tabletop Simulator]]></title>
+            <description><![CDATA[<article><h1>Tabletop Simulator</h1><p>I cannot say enough good things about Tabletop Simulator. It is not *perfect* but Claym wouldn't even have hit the prototyping phase without it.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d48c7df5-da38-4398-ad06-35808f340f46.png"></article>]]></description>
+            <link>https://thegrid.ai/claym/tabletop-simulator/index.html</link>
+            <guid isPermaLink="false">9100a2a6-97e3-4680-9875-c7184c42d65e</guid>
+            <pubDate>Mon, 30 May 2016 03:59:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Claym Board]]></title>
             <description><![CDATA[<article><h1>Claym Board</h1><p>The current version of the Claym board; this iteration tweaks the coloring to explicitly call out the White and Black sides to avoid confusion (in theory the players could switch board positions entirely, though it's not particularly likely).</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/40bd78d6-87e0-43d3-8f4d-68c398d79806.png"></article>]]></description>
-            <link>undefinedclaym-board/index.html</link>
+            <link>https://thegrid.ai/claym/claym-board/index.html</link>
             <guid isPermaLink="false">69e32111-7e6f-43f1-8c03-034f15a64636</guid>
             <pubDate>Mon, 30 May 2016 03:59:01 GMT</pubDate>
         </item>
