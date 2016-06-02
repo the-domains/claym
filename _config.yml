@@ -1,4 +1,4 @@
-typography_spectrum: 0.4242984785232693
+typography_spectrum: 0.2718146985862404
 color:
   brandStrength: 0.0004610782489180565
   lightness: 0.3702091060113162
@@ -10,7 +10,7 @@ color:
     - '#40627C'
     - '#26393D'
     - '#FFFAE4'
-layout_spectrum: 0.45759464404545724
+layout_spectrum: 0.07677630544640124
 author:
   email: sam@whiletruefork.com
 logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/af88ccb9-f0a5-41bd-b08c-52d0683f85da.png'
